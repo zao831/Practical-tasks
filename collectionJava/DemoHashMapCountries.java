@@ -2,6 +2,12 @@ package collectionJava;
 
 import java.util.*;
 
+/**
+ * Demonstration of hashmap
+ * @author Anton Baker
+ * @date Tuesday, 2018-06-19
+ */
+
 public class DemoHashMapCountries {
 	
 	public static void main(String[] args) {
